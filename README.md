@@ -1,0 +1,1 @@
+This project is to practice creating various types of lists within an HTML file
